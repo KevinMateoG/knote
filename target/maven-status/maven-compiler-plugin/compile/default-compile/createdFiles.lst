@@ -1,6 +1,5 @@
 io/learnk8s/knote/NotesRepository.class
 io/learnk8s/knote/Note.class
 io/learnk8s/knote/KNoteController.class
-io/learnk8s/knote/KnoteConfig.class
 io/learnk8s/knote/KnoteApplication.class
 io/learnk8s/knote/KnoteProperties.class
